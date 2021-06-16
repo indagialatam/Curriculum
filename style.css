@@ -3,4 +3,5 @@ body{
 	color: #c0c0c0;
 	margin: 2%;
 	padding: 10px 5px 2px 4%;
+	border: 1px solid red;
 }
